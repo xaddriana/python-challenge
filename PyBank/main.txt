@@ -1,0 +1,16 @@
+Python 3.11.2 (v3.11.2:878ead1ac1, Feb  7 2023, 10:02:41) [Clang 13.0.0 (clang-1300.0.29.30)] on darwin
+Type "help", "copyright", "credits" or "license()" for more information.
+
+=== RESTART: /Users/adrianagalindo/Downloads/Module3Assignment/PyBank/main.py ==
+Total Months: 86
+Total: $22564198
+Average Change: $-16622.21
+Greatest Increase in Profits: Aug-16 ($ 1862002 )
+Greatest Decrease in Profits: Feb-14 ($ -1825558 )
+>>> 
+=== RESTART: /Users/adrianagalindo/Downloads/Module3Assignment/PyBank/main.py ==
+Total Months: 86
+Total: $22564198
+Average Change: $-16622.21
+Greatest Increase in Profits: Aug-16 ($ 1862002 )
+Greatest Decrease in Profits: Feb-14 ($ -1825558 )

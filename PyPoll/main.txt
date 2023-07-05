@@ -1,0 +1,10 @@
+Python 3.11.2 (v3.11.2:878ead1ac1, Feb  7 2023, 10:02:41) [Clang 13.0.0 (clang-1300.0.29.30)] on darwin
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+=== RESTART: /Users/adrianagalindo/Downloads/Module3Assignment/PyPoll/main.py ==
+Election Results
+Total Votes: 369711
+Charles Casper Stockham: 23.049% (85213)
+Diana DeGette: 73.812% (272892)
+Raymon Anthony Doane: 3.139% (11606)
+Winner: Diana DeGette
